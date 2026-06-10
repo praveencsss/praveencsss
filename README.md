@@ -20,12 +20,6 @@ about me here...
 </p>
 
 <p align='center'>
-  <a href="https://github-readme-stats.vercel.app/api/gist?id=c3d08b72456c1dee29854840cbdd1169&show_owner=true&theme=chartreuse-dark&PAT_1">
-    <img align='center' src="https://github-readme-stats.vercel.app/api/gist?id=c3d08b72456c1dee29854840cbdd1169&show_owner=true&theme=chartreuse-dark&PAT_1" alt="praveencsss" />
-  </a>
-</p>
-
-<p align='center'>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=praveencsss&count_private=true&layout=compact&theme=highcontrast&langs_count=20&include_all_commits=true&PAT_1">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveencsss&count_private=true&layout=compact&theme=highcontrast&langs_count=20&include_all_commits=true&PAT_1" width="335">
   </a>
